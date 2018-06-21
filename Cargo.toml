@@ -1,0 +1,6 @@
+[package]
+name = "pokmn-rs"
+version = "0.1.0"
+authors = ["slackmagic <slack.magic@gmail.com>"]
+
+[dependencies]
